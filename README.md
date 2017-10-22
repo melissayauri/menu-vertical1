@@ -12,4 +12,4 @@ El presente trabajo consta en realizar un menú de navegación vertical y cuando
 
 
 
- ![menú](assets/img/imagen1.jpg)
+ ![imagen a replicar](assets/img/imagen1.jpg)
